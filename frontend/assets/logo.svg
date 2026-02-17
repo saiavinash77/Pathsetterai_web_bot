@@ -1,0 +1,8 @@
+<svg width="240" height="48" viewBox="0 0 240 48" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="48" fill="none"/>
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="22" cy="24" r="18" fill="#1CCFA8" />
+    <path d="M18 18h8v4h-8zM18 24h8v4h-8zM18 30h8v4h-8z" fill="#fff"/>
+    <text x="56" y="32" font-family="Inter, Arial, sans-serif" font-size="20" fill="#e6fff7">Pathsetter AI</text>
+  </g>
+</svg>

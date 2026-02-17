@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Pathsetter Alfred</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="chat-container" role="application">
+    <div class="header">
+      <div class="logo"><img src="/static/assets/logo.svg" alt="Pathsetter AI" width="48" height="48"></div>
+      <div>
+        <div class="title">Pathsetter Alfred</div>
+        <div class="subtitle">Conversational infra assistant</div>
+      </div>
+    </div>
+
+    <div id="chat-box" aria-live="polite"></div>
+
+    <div class="input-area">
+      <input id="user-input" class="input" placeholder="Type a message and press Enter..." rows="1" />
+      <button id="send-btn" class="send-btn">Send</button>
+    </div>
+  </div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>

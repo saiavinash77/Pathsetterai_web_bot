@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+groq
+chromadb
+pydantic
+python-dotenv
+tiktoken
